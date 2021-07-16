@@ -1,14 +1,14 @@
 # Heart-Disease-Prediction
-This prediction wil lprocess the data of heartdiseaseswe
-took fromthe Kagglewebsite and process,clean and filter the
-applicable attributestodeterminethe hiddenknowledge and
-generate a prediction.Not onlycan this prediction
+This prediction wil process the data of heart diseases we
+took fromthe Kaggle website and process,clean and filter the
+applicable attributes to determine the hidden knowledge and
+generate a prediction. Not only can this prediction
 model predict with a high level of accuracy, it is also
 expected to be able to be able to have knowledge on
-complexheartdiseasestoo.Moreover,sucha prediction
-system cancome in very handyto a medicalpractitionerand
-aid inmaking decisions.Besides, a heart disease prediction
-system isimportant asit can predict and solve problems
+complex heart diseases too. Moreover,such a prediction
+system cancome in very handyto a medical practitioner and
+aid in making decisions.Besides, a heart disease prediction
+system is important asit can predict and solve problems
 accurately even when there is no expert around.
 
 To predict heart disease, the test and training data is given
@@ -25,7 +25,7 @@ negative error because this mean sends home a patient who in
 fact has heart disease(negative misclassification error). To identify the best model to fix the problem and classify
 correctly new data, it is necessary to reduce the bias of the
 estimation and reduce the variance of it. However, usually low
-bia s means high variance. Therefore, it is clear it needed the
+bias means high variance. Therefore, it is clear it needed the
 bias-variance trade-off in order to fix the model. The error
 when it does not fit well into the assumptions it makes when
 building the learning algorithm, and the high variance in the
