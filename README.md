@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# Heart-Disease-Prediction using ML
 This prediction wil process the data of heart diseases we
 took fromthe Kaggle website and process,clean and filter the
 applicable attributes to determine the hidden knowledge and
